@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 28" width="100%" height="28">
+  <defs>
+    <linearGradient id="m-div-left" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="70%" stop-color="#052e16" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#00ff41" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="m-div-right" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ff41" stop-opacity="1"/>
+      <stop offset="30%" stop-color="#052e16" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="m-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Left beam -->
+  <line x1="20" y1="14" x2="430" y2="14" stroke="url(#m-div-left)" stroke-width="1.2"/>
+  <circle cx="430" cy="14" r="2" fill="#00ff41" filter="url(#m-glow)"/>
+
+  <!-- Center Matrix Node: Cyber Diamond with pulse -->
+  <g transform="translate(450, 14)">
+    <polygon points="0,-7 7,0 0,7 -7,0" fill="#000000" stroke="#00ff41" stroke-width="1.5" filter="url(#m-glow)">
+      <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
+    </polygon>
+    <circle cx="0" cy="0" r="2" fill="#00ff66"/>
+  </g>
+
+  <!-- Right beam -->
+  <circle cx="470" cy="14" r="2" fill="#00ff41" filter="url(#m-glow)"/>
+  <line x1="470" y1="14" x2="880" y2="14" stroke="url(#m-div-right)" stroke-width="1.2"/>
+</svg>

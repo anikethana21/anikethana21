@@ -1,59 +1,63 @@
 <div align="center">
 
-<!-- MINIMAL BAT HEADER -->
-<img width="100%" src="./assets/bat-header.svg" alt="Anikethana" />
+<!-- MATRIX DIGITAL RAIN ANIMATED HEADER -->
+<img width="100%" src="./assets/matrix-header.svg" alt="Anikethana - Matrix" />
 
 <br/>
 
-<!-- TYPING ANIMATION -->
+<!-- MATRIX TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=1200&color=38bdf8&center=true&vCenter=true&repeat=true&width=620&height=40&lines=SDE+Intern+%40+My+Startup+Wave;Architecting+GenAI+%26+Multi-Agent+Pipelines;AI+UI%2FUX+Design+with+Google+Stitch+%26+Figma;Creator+of+One+Swagger+on+VS+Code+Marketplace;National+Hackathon+Finalist+%40+SRIJAN+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=1200&color=00FF66&center=true&vCenter=true&repeat=true&width=620&height=40&lines=SDE+Intern+%40+My+Startup+Wave;Architecting+GenAI+%26+Multi-Agent+Pipelines;AI+UI%2FUX+Design+with+Google+Stitch+%26+Figma;Creator+of+One+Swagger+on+VS+Code+Marketplace;National+Hackathon+Finalist+%40+SRIJAN+2026" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=anikethana21&label=PROFILE+SCANS&color=0e2347&style=flat-square&labelColor=020611" alt="views" />
-&nbsp;&nbsp;
-<a href="https://github.com/anikethana21?tab=followers">
-  <img src="https://img.shields.io/github/followers/anikethana21?label=ALLIES&style=flat-square&color=0e2347&labelColor=020611" alt="followers"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/anikethana21?tab=repositories&sort=stargazers">
-  <img src="https://img.shields.io/github/stars/anikethana21?label=STARS&style=flat-square&color=0e2347&labelColor=020611" alt="stars"/>
-</a>
+<!-- MATRIX THEMED TELEMETRY BADGES -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=anikethana21&label=SYSTEM+ACCESSES&color=00ff41&style=flat-square&labelColor=051a05" alt="profile views" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/anikethana21?tab=followers">
+    <img src="https://img.shields.io/github/followers/anikethana21?label=NODES&style=flat-square&color=00ff41&labelColor=051a05" alt="followers"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/anikethana21?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/anikethana21?label=STARS&style=flat-square&color=00ff41&labelColor=051a05" alt="stars"/>
+  </a>
+</p>
 
 </div>
 
-<!-- THE SINGLE SIGNATURE BATARANG DIVIDER -->
+<!-- MATRIX LASER DIVIDER -->
 <div align="center">
-  <img width="100%" src="./assets/batarang-divider.svg" alt="divider" />
+  <img width="100%" src="./assets/matrix-divider.svg" alt="divider" />
 </div>
 
-## About
+## ⚡ `> whoami`
 
 ```typescript
-const operative = {
-  identity: "Anikethana J L",
-  base: "Bengaluru, India",
+const aniketh = {
+  identity: "Anikethana",
+  location: "Bengaluru, India",
   currentAssignment: "Software Engineering Intern @ My Startup Wave",
-  designations: ["Full-Stack Engineer", "GenAI Architect", "DevTools Builder"],
+  designations: ["Full-Stack Engineer", "GenAI Architect", "DevTools Creator"],
   coreStack: ["Next.js 15", "React 19", "TypeScript", "FastAPI", "Python"],
   aiArsenal: ["Gemini 2.0 Flash", "Google Stitch", "Agentic Workflows", "Figma"],
-  activeOps: "GenAI pipelines, Multi-Agent workflows, production-grade web apps",
-  protocol: "Ship fast. Ship clean. Never stop."
+  activeOps: "GenAI pipelines, Multi-Agent workflows & scalable web apps",
+  directive: "Wake up, Neo... The Matrix has you 🐇"
 };
 ```
 
-- **Software Engineering Intern** at **[My Startup Wave](https://mystartupwave.com/)** -- building modern web and AI solutions at scale
-- Developing **GenAI-powered applications** and Multi-Agent systems with Gemini 2.0 and Next.js
-- AI-assisted UI/UX design and rapid prototyping with **Google Stitch** and **Figma**
-- Creator of **One Swagger** -- live on [VS Code Marketplace](https://marketplace.visualstudio.com/) + Chrome Web Store
-- **National Finalist** at SRIJAN 2026 | Smart India Hackathon contributor
-- Reach me at **anikethana2109@gmail.com**
+- 💼 **Software Engineering Intern** at **[My Startup Wave](https://mystartupwave.com/)** — engineering modern web & AI solutions
+- 🔭 Developing **GenAI-powered applications** & Multi-Agent systems with Gemini 2.0 & Next.js
+- 🎨 AI-assisted UI/UX design & rapid prototyping with **Google Stitch** & **Figma**
+- 🛠️ Creator of **One Swagger** — live on [VS Code Marketplace](https://marketplace.visualstudio.com/) + Chrome Web Store
+- 🏆 **National Finalist** @ SRIJAN 2026 | Smart India Hackathon contributor
+- 💬 Ask me about **Next.js, React 19, FastAPI, GenAI, Google Stitch, Extension Development**
+- 📫 Reach me at **anikethana2109@gmail.com**
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -142,14 +146,14 @@ const operative = {
 
 ---
 
-## Featured Projects
+## 🌟 Featured Projects
 
 <div align="center">
 <table>
 <tr>
 <td width="50%">
 
-### One Swagger
+### 🔌 One Swagger
 > Universal OpenAPI testing tool with **zero-CORS proxy** architecture  
 > Deployed across **Web App, Chrome Extension, and VS Code Marketplace**  
 > `React 19` `FastAPI` `TypeScript` `Manifest V3`
@@ -157,7 +161,7 @@ const operative = {
 </td>
 <td width="50%">
 
-### Interview AI
+### 🧠 Interview AI
 > GenAI mock interview platform powered by **Gemini 2.0 Flash**  
 > Schema-enforced Zod outputs and ATS-grade PDF report generation  
 > `React 19` `Express 5` `Gemini 2.0` `MongoDB`
@@ -167,17 +171,17 @@ const operative = {
 <tr>
 <td width="50%">
 
-### ILAP -- IAM Automation
+### 🛡️ ILAP — IAM Automation
 > Automated Joiner-Mover-Leaver platform with conversational RBAC  
-> **SRIJAN 2026 National Finalist**  
+> **SRIJAN 2026 National Finalist** 🏆  
 > `Python` `Security` `IAM` `SOC2`
 
 </td>
 <td width="50%">
 
-### RAG Multi-Agent Systems
+### 🤖 RAG Multi-Agent Systems
 > Autonomous multi-agent intelligence for real-time deep research  
-> Browse the source at [repositories](https://github.com/anikethana21?tab=repositories)  
+> Browse the source at [repositories](https://github.com/anikethana21?tab=repositories) →  
 > `Python` `LangGraph` `Gemini` `Vector DB`
 
 </td>
@@ -187,51 +191,58 @@ const operative = {
 
 ---
 
-## Diagnostics
+## 📊 Matrix Telemetry // Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anikethana21&show_icons=true&bg_color=020611&title_color=38bdf8&text_color=94a3b8&icon_color=2563eb&border_color=0e2347&border_radius=8&count_private=true&include_all_commits=true&custom_title=Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anikethana21&background=020611&border=0e2347&stroke=0e2347&ring=2563eb&fire=38bdf8&currStreakNum=e2e8f0&currStreakLabel=38bdf8&sideNums=94a3b8&sideLabels=38bdf8&dates=38bdf8&border_radius=8" />
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anikethana21&show_icons=true&theme=matrix&border_radius=8&count_private=true&include_all_commits=true&custom_title=System%20Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anikethana21&theme=matrix&border_radius=8" />
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anikethana21&layout=compact&bg_color=020611&title_color=38bdf8&text_color=94a3b8&border_color=0e2347&border_radius=8&langs_count=8" />
+<img width="46%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anikethana21&layout=compact&theme=matrix&border_radius=8&langs_count=8" />
 
 </div>
 
 ---
 
-## Patrol Grid
+## 🐍 Contribution Stream
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-    <img alt="Contribution graph" src="./assets/github-snake-dark.svg" />
+    <img alt="Contribution stream" src="./assets/github-snake-dark.svg" />
   </picture>
 </div>
 
 ---
 
-## Connect
+## 🤝 Establish Uplink
 
 <div align="center">
 
 <a href="https://linkedin.com/in/anikethana21" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-020611?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=051a05" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:anikethana2109@gmail.com">
-  <img src="https://img.shields.io/badge/Email-020611?style=for-the-badge&logo=gmail&logoColor=38bdf8" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=051a05" alt="Gmail"/>
 </a>
 &nbsp;
 <a href="https://github.com/anikethana21" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-020611?style=for-the-badge&logo=github&logoColor=38bdf8" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=051a05" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-*"It's not who I am underneath, but what I do that defines me."*
+*"There's a difference between knowing the path and walking the path." — Morpheus*
 
+</div>
+
+<br/>
+
+<!-- MATRIX GREEN WAVING FOOTER -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:021a08,100:00ff41&height=100&section=footer"/>
 </div>
