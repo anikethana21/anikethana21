@@ -1,21 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 32" width="100%" height="32">
   <defs>
     <linearGradient id="div-line-left" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#020817" stop-opacity="0"/>
-      <stop offset="60%" stop-color="#1e3a5f" stop-opacity="0.8"/>
-      <stop offset="100%" stop-color="#38bdf8" stop-opacity="1"/>
+      <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="70%" stop-color="#78350f" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#fbbf24" stop-opacity="1"/>
     </linearGradient>
     <linearGradient id="div-line-right" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="1"/>
-      <stop offset="40%" stop-color="#1e3a5f" stop-opacity="0.8"/>
-      <stop offset="100%" stop-color="#020817" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#fbbf24" stop-opacity="1"/>
+      <stop offset="30%" stop-color="#78350f" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="bat-metal" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#38bdf8"/>
-      <stop offset="50%" stop-color="#1e3a5f"/>
-      <stop offset="100%" stop-color="#0b1329"/>
+    <linearGradient id="gold-stroke" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="50%" stop-color="#fef08a"/>
+      <stop offset="100%" stop-color="#d97706"/>
     </linearGradient>
-    <filter id="div-glow" x="-20%" y="-20%" width="140%" height="140%">
+    <filter id="gold-div-glow" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="2" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
@@ -24,14 +24,14 @@
     </filter>
   </defs>
 
-  <!-- Left tactical line -->
+  <!-- Left golden fading line -->
   <line x1="20" y1="16" x2="420" y2="16" stroke="url(#div-line-left)" stroke-width="1.2"/>
-  <circle cx="423" cy="16" r="2" fill="#38bdf8" filter="url(#div-glow)"/>
+  <circle cx="423" cy="16" r="2" fill="#fbbf24" filter="url(#gold-div-glow)"/>
 
-  <!-- Center Ben Affleck Bat Logo Insignia -->
+  <!-- Center Ben Affleck Bat Logo Insignia with Golden Rim -->
   <g transform="translate(450, 16)">
-    <!-- Subtle pulse -->
     <g transform="scale(0.042) translate(-500, -350)">
+      <!-- Golden aura glow -->
       <path d="
         M 500,175
         L 572,150
@@ -50,13 +50,13 @@
         C 310,160 350,185 418,178
         L 428,150
         Z
-      " fill="url(#bat-metal)" stroke="#38bdf8" stroke-width="8" filter="url(#div-glow)">
-        <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2.5s" repeatCount="indefinite"/>
+      " fill="#000000" stroke="url(#gold-stroke)" stroke-width="10" filter="url(#gold-div-glow)">
+        <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
       </path>
     </g>
   </g>
 
-  <!-- Right tactical line -->
-  <circle cx="477" cy="16" r="2" fill="#38bdf8" filter="url(#div-glow)"/>
+  <!-- Right golden fading line -->
+  <circle cx="477" cy="16" r="2" fill="#fbbf24" filter="url(#gold-div-glow)"/>
   <line x1="480" y1="16" x2="880" y2="16" stroke="url(#div-line-right)" stroke-width="1.2"/>
 </svg>

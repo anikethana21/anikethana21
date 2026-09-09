@@ -1,39 +1,39 @@
 <div align="center">
 
-<!-- ANIMATED BAT HEADER WITH NAME -->
+<!-- MINIMAL BAT HEADER -->
 <img width="100%" src="./assets/bat-header.svg" alt="Anikethana" />
 
 <br/>
 
-<!-- TYPING ANIMATION - NO EMOJIS, BATMAN PALETTE -->
+<!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=1200&color=4A6FA1&center=true&vCenter=true&repeat=true&width=620&height=40&lines=SDE+Intern+%40+My+Startup+Wave;Architecting+GenAI+%26+Multi-Agent+Pipelines;AI+UI%2FUX+Design+with+Google+Stitch+%26+Figma;Creator+of+One+Swagger+on+VS+Code+Marketplace;National+Hackathon+Finalist+%40+SRIJAN+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=1200&color=38bdf8&center=true&vCenter=true&repeat=true&width=620&height=40&lines=SDE+Intern+%40+My+Startup+Wave;Architecting+GenAI+%26+Multi-Agent+Pipelines;AI+UI%2FUX+Design+with+Google+Stitch+%26+Figma;Creator+of+One+Swagger+on+VS+Code+Marketplace;National+Hackathon+Finalist+%40+SRIJAN+2026" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=anikethana21&label=PROFILE+SCANS&color=1e3a5f&style=flat-square&labelColor=0a1628" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=anikethana21&label=PROFILE+SCANS&color=0e2347&style=flat-square&labelColor=020611" alt="views" />
 &nbsp;&nbsp;
 <a href="https://github.com/anikethana21?tab=followers">
-  <img src="https://img.shields.io/github/followers/anikethana21?label=ALLIES&style=flat-square&color=1e3a5f&labelColor=0a1628" alt="followers"/>
+  <img src="https://img.shields.io/github/followers/anikethana21?label=ALLIES&style=flat-square&color=0e2347&labelColor=020611" alt="followers"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/anikethana21?tab=repositories&sort=stargazers">
-  <img src="https://img.shields.io/github/stars/anikethana21?label=STARS&style=flat-square&color=1e3a5f&labelColor=0a1628" alt="stars"/>
+  <img src="https://img.shields.io/github/stars/anikethana21?label=STARS&style=flat-square&color=0e2347&labelColor=020611" alt="stars"/>
 </a>
 
 </div>
 
-<!-- BATARANG DIVIDER -->
+<!-- THE SINGLE SIGNATURE BATARANG DIVIDER -->
 <div align="center">
   <img width="100%" src="./assets/batarang-divider.svg" alt="divider" />
 </div>
 
-## `> system.access("aniketh")`
+## About
 
 ```typescript
 const operative = {
-  identity: "Anikethana Reddy J L",
+  identity: "Anikethana J L",
   base: "Bengaluru, India",
   currentAssignment: "Software Engineering Intern @ My Startup Wave",
   designations: ["Full-Stack Engineer", "GenAI Architect", "DevTools Builder"],
@@ -51,12 +51,9 @@ const operative = {
 - **National Finalist** at SRIJAN 2026 | Smart India Hackathon contributor
 - Reach me at **anikethana2109@gmail.com**
 
-<!-- BATARANG DIVIDER -->
-<div align="center">
-  <img width="100%" src="./assets/batarang-divider.svg" alt="divider" />
-</div>
+---
 
-## ARSENAL
+## Tech Stack
 
 <div align="center">
 
@@ -143,10 +140,9 @@ const operative = {
 
 </div>
 
-<!-- GRAPPLING HOOK FEATURED PROJECTS HEADER -->
-<div align="center">
-  <img width="100%" src="./assets/grapple-projects.svg" alt="Featured Projects" />
-</div>
+---
+
+## Featured Projects
 
 <div align="center">
 <table>
@@ -189,30 +185,24 @@ const operative = {
 </table>
 </div>
 
-<!-- BATARANG DIVIDER -->
-<div align="center">
-  <img width="100%" src="./assets/batarang-divider.svg" alt="divider" />
-</div>
+---
 
-## DIAGNOSTICS
+## Diagnostics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anikethana21&show_icons=true&bg_color=0a1628&title_color=6d93c5&text_color=8b949e&icon_color=4a6fa1&border_color=1e3a5f&border_radius=8&count_private=true&include_all_commits=true&custom_title=Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anikethana21&background=0a1628&border=1e3a5f&stroke=1e3a5f&ring=4a6fa1&fire=6d93c5&currStreakNum=c9d1d9&currStreakLabel=4a6fa1&sideNums=8b949e&sideLabels=4a6fa1&dates=4a6fa1&border_radius=8" />
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anikethana21&show_icons=true&bg_color=020611&title_color=38bdf8&text_color=94a3b8&icon_color=2563eb&border_color=0e2347&border_radius=8&count_private=true&include_all_commits=true&custom_title=Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anikethana21&background=020611&border=0e2347&stroke=0e2347&ring=2563eb&fire=38bdf8&currStreakNum=e2e8f0&currStreakLabel=38bdf8&sideNums=94a3b8&sideLabels=38bdf8&dates=38bdf8&border_radius=8" />
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anikethana21&layout=compact&bg_color=0a1628&title_color=6d93c5&text_color=8b949e&border_color=1e3a5f&border_radius=8&langs_count=8" />
+<img width="42%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anikethana21&layout=compact&bg_color=020611&title_color=38bdf8&text_color=94a3b8&border_color=0e2347&border_radius=8&langs_count=8" />
 
 </div>
 
-<!-- GRAPPLE DIVIDER -->
-<div align="center">
-  <img width="100%" src="./assets/grapple-divider.svg" alt="divider" />
-</div>
+---
 
-## PATROL GRID
+## Patrol Grid
 
 <div align="center">
   <picture>
@@ -222,34 +212,26 @@ const operative = {
   </picture>
 </div>
 
-<!-- BATARANG DIVIDER -->
-<div align="center">
-  <img width="100%" src="./assets/batarang-divider.svg" alt="divider" />
-</div>
+---
 
-## COMM LINKS
+## Connect
 
 <div align="center">
 
 <a href="https://linkedin.com/in/anikethana21" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0a1628?style=for-the-badge&logo=linkedin&logoColor=4a6fa1" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-020611?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:anikethana2109@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0a1628?style=for-the-badge&logo=gmail&logoColor=4a6fa1" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-020611?style=for-the-badge&logo=gmail&logoColor=38bdf8" alt="Email"/>
 </a>
 &nbsp;
 <a href="https://github.com/anikethana21" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-0a1628?style=for-the-badge&logo=github&logoColor=4a6fa1" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-020611?style=for-the-badge&logo=github&logoColor=38bdf8" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
 *"It's not who I am underneath, but what I do that defines me."*
 
-</div>
-
-<!-- DARK FOOTER -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,50:0a1628,100:1e3a5f&height=100&section=footer"/>
 </div>
