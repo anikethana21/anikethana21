@@ -1,30 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" width="100%" height="100%">
   <defs>
-    <!-- Deep pitch black background with very subtle warm dark-amber vignette behind emblem -->
-    <radialGradient id="bg-aura" cx="50%" cy="50%" r="65%">
-      <stop offset="0%" stop-color="#181204" stop-opacity="0.9"/>
-      <stop offset="45%" stop-color="#080601" stop-opacity="0.95"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="1"/>
-    </radialGradient>
-
-    <!-- Deep stealth black bat armor -->
+    <!-- Deep pitch black bat armor -->
     <linearGradient id="bat-armor" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#080808"/>
-      <stop offset="50%" stop-color="#040404"/>
+      <stop offset="50%" stop-color="#030303"/>
       <stop offset="100%" stop-color="#000000"/>
     </linearGradient>
 
-    <!-- Thin Refined Golden Rim Gradient -->
-    <linearGradient id="gold-rim" x1="0%" y1="0%" x2="100%" y2="100%">
+    <!-- Refined Thin Golden Rim Gradient - ONLY FOR THE BAT LOGO -->
+    <linearGradient id="bat-gold-rim" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#d97706"/>
-      <stop offset="30%" stop-color="#fbbf24"/>
+      <stop offset="25%" stop-color="#fbbf24"/>
       <stop offset="50%" stop-color="#fef08a"/>
-      <stop offset="70%" stop-color="#fbbf24"/>
+      <stop offset="75%" stop-color="#fbbf24"/>
       <stop offset="100%" stop-color="#b45309"/>
     </linearGradient>
 
-    <!-- Thin Golden Aura Filter for Bat Logo -->
-    <filter id="gold-aura" x="-15%" y="-15%" width="130%" height="130%">
+    <!-- Thin Golden Aura Filter - ONLY FOR THE BAT LOGO -->
+    <filter id="bat-gold-aura" x="-15%" y="-15%" width="130%" height="130%">
       <feGaussianBlur stdDeviation="3.5" result="blur" />
       <feMerge>
         <feMergeNode in="blur"/>
@@ -32,22 +25,11 @@
       </feMerge>
     </filter>
 
-    <!-- Soft Golden Aura Filter for Background Rim -->
-    <filter id="bg-gold-glow" x="-5%" y="-5%" width="110%" height="110%">
-      <feGaussianBlur stdDeviation="2" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-    <!-- Name Shimmer: Crisp White with subtle golden sheen -->
-    <linearGradient id="name-shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#f8fafc"/>
-      <stop offset="45%" stop-color="#ffffff"/>
-      <stop offset="50%" stop-color="#fef08a"/>
-      <stop offset="55%" stop-color="#ffffff"/>
-      <stop offset="100%" stop-color="#f8fafc"/>
+    <!-- Crisp Platinum White Text Gradient -->
+    <linearGradient id="name-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f1f5f9"/>
+      <stop offset="50%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#e2e8f0"/>
     </linearGradient>
   </defs>
 
@@ -62,17 +44,15 @@
     }
   </style>
 
-  <!-- Pitch Black Background with Subtle Golden Ambient Base -->
-  <rect width="1000" height="200" fill="url(#bg-aura)" rx="8" />
+  <!-- Pure Pitch Black Background -->
+  <rect width="1000" height="200" fill="#000000" rx="8" />
 
-  <!-- Thin Golden Aura Outer Frame around the background -->
-  <rect x="2" y="2" width="996" height="196" rx="7" fill="none" stroke="url(#gold-rim)" stroke-width="1.2" opacity="0.45" filter="url(#bg-gold-glow)">
-    <animate attributeName="opacity" values="0.3;0.6;0.3" dur="5s" repeatCount="indefinite" />
-  </rect>
+  <!-- Subtle Stealth Dark Slate Border (NO GOLD ON BG) -->
+  <rect x="2" y="2" width="996" height="196" rx="7" fill="none" stroke="#161b22" stroke-width="1.2" />
 
-  <!-- BEN AFFLECK BAT LOGO WITH THIN GOLDEN AURA -->
+  <!-- BEN AFFLECK BAT LOGO - WITH THIN GOLDEN AURA -->
   <g transform="translate(20, -50) scale(0.96, 0.44)">
-    <!-- Thin Golden Aura Glow Layer behind Bat Logo -->
+    <!-- Thin Golden Aura Glow Layer directly behind Bat Logo -->
     <path d="
       M 500,175
       L 572,150
@@ -91,8 +71,9 @@
       C 310,160 350,185 418,178
       L 428,150
       Z
-    " fill="none" stroke="#fbbf24" stroke-width="3.5" opacity="0.6" filter="url(#gold-aura)">
-      <animate attributeName="opacity" values="0.4;0.8;0.4" dur="4s" repeatCount="indefinite" />
+    " fill="none" stroke="#fbbf24" stroke-width="3" opacity="0.65" filter="url(#bat-gold-aura)">
+      <!-- Subtle slow breathing pulse on the golden aura -->
+      <animate attributeName="opacity" values="0.45;0.85;0.45" dur="4s" repeatCount="indefinite" />
     </path>
 
     <!-- Main Solid Stealth Black Bat Emblem with Thin Golden Rim -->
@@ -114,26 +95,26 @@
       C 310,160 350,185 418,178
       L 428,150
       Z
-    " fill="url(#bat-armor)" stroke="url(#gold-rim)" stroke-width="1.8" />
+    " fill="url(#bat-armor)" stroke="url(#bat-gold-rim)" stroke-width="1.8" />
   </g>
 
   <!-- NAME & CLEAN SUBTITLE CENTERED INSIDE BAT LOGO -->
   <g text-anchor="middle">
-    <!-- Main Name: ANIKETHANA - Big, bold, clean white with golden-tinted crisp presence -->
-    <text x="500" y="105" class="heading" font-size="52" fill="url(#name-shimmer)" letter-spacing="12">
+    <!-- Main Name: ANIKETHANA - Crisp, commanding, pristine white -->
+    <text x="500" y="105" class="heading" font-size="52" fill="url(#name-grad)" letter-spacing="12">
       ANIKETHANA
     </text>
 
-    <!-- Minimal Subtle Golden Divider Line -->
-    <line x1="380" y1="122" x2="620" y2="122" stroke="url(#gold-rim)" stroke-width="1" opacity="0.6" />
+    <!-- Subtle Minimal Divider Line -->
+    <line x1="380" y1="122" x2="620" y2="122" stroke="#262626" stroke-width="1" />
 
     <!-- Clean Subtitle -->
-    <text x="500" y="142" class="sub" font-size="13" fill="#cbd5e1" letter-spacing="4">
+    <text x="500" y="142" class="sub" font-size="13" fill="#94a3b8" letter-spacing="4">
       SOFTWARE ENGINEER  &#8226;  GENAI ARCHITECT
     </text>
 
     <!-- Minimal Affiliation Line -->
-    <text x="500" y="165" class="sub" font-size="10.5" fill="#eab308" letter-spacing="2.5" opacity="0.85">
+    <text x="500" y="165" class="sub" font-size="10.5" fill="#64748b" letter-spacing="2.5">
       SDE INTERN @ MY STARTUP WAVE
     </text>
   </g>
