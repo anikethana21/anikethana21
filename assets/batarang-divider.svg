@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 32" width="100%" height="32">
+  <defs>
+    <linearGradient id="div-line-left" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#020817" stop-opacity="0"/>
+      <stop offset="60%" stop-color="#1e3a5f" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="div-line-right" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="1"/>
+      <stop offset="40%" stop-color="#1e3a5f" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#020817" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="bat-metal" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#1e3a5f"/>
+      <stop offset="100%" stop-color="#0b1329"/>
+    </linearGradient>
+    <filter id="div-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Left tactical line -->
+  <line x1="20" y1="16" x2="420" y2="16" stroke="url(#div-line-left)" stroke-width="1.2"/>
+  <circle cx="423" cy="16" r="2" fill="#38bdf8" filter="url(#div-glow)"/>
+
+  <!-- Center Ben Affleck Bat Logo Insignia -->
+  <g transform="translate(450, 16)">
+    <!-- Subtle pulse -->
+    <g transform="scale(0.042) translate(-500, -350)">
+      <path d="
+        M 500,175
+        L 572,150
+        L 582,178
+        C 650,185 690,160 736,110
+        C 860,220 950,360 975,520
+        C 910,465 835,455 802,482
+        L 790,510
+        Q 740,455 685,450
+        L 500,595
+        L 315,450
+        Q 260,455 210,510
+        L 198,482
+        C 165,455 90,465 25,520
+        C 50,360 140,220 264,110
+        C 310,160 350,185 418,178
+        L 428,150
+        Z
+      " fill="url(#bat-metal)" stroke="#38bdf8" stroke-width="8" filter="url(#div-glow)">
+        <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2.5s" repeatCount="indefinite"/>
+      </path>
+    </g>
+  </g>
+
+  <!-- Right tactical line -->
+  <circle cx="477" cy="16" r="2" fill="#38bdf8" filter="url(#div-glow)"/>
+  <line x1="480" y1="16" x2="880" y2="16" stroke="url(#div-line-right)" stroke-width="1.2"/>
+</svg>

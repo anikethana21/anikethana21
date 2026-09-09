@@ -1,0 +1,215 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 420" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradients -->
+    <radialGradient id="bat-sky" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#0e1f3d" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#060e1e" stop-opacity="0.98"/>
+      <stop offset="100%" stop-color="#020611" stop-opacity="1"/>
+    </radialGradient>
+
+    <!-- Bat Body Armor Gradient -->
+    <linearGradient id="bat-armor" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#141d2b"/>
+      <stop offset="35%" stop-color="#090d16"/>
+      <stop offset="100%" stop-color="#03050a"/>
+    </linearGradient>
+
+    <linearGradient id="bat-rim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e3a5f"/>
+      <stop offset="50%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#12253d"/>
+    </linearGradient>
+
+    <linearGradient id="text-shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f1f5f9"/>
+      <stop offset="45%" stop-color="#ffffff"/>
+      <stop offset="50%" stop-color="#38bdf8"/>
+      <stop offset="55%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f1f5f9">
+        <animate attributeName="stop-color" 
+          values="#f1f5f9;#38bdf8;#ffffff;#f1f5f9" 
+          dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Filter for Glow -->
+    <filter id="bat-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <filter id="laser-glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Clip path using the EXACT Ben Affleck Bat Logo -->
+    <clipPath id="affleck-bat-clip">
+      <path d="
+        M 500,175
+        L 572,150
+        L 582,178
+        C 650,185 690,160 736,110
+        C 860,220 950,360 975,520
+        C 910,465 835,455 802,482
+        L 790,510
+        Q 740,455 685,450
+        L 500,595
+        L 315,450
+        Q 260,455 210,510
+        L 198,482
+        C 165,455 90,465 25,520
+        C 50,360 140,220 264,110
+        C 310,160 350,185 418,178
+        L 428,150
+        Z
+      " />
+    </clipPath>
+  </defs>
+
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; }
+    .heading { font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-weight: 900; }
+    .sub { font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+  </style>
+
+  <!-- Background Base Canvas -->
+  <rect width="1000" height="420" fill="url(#bat-sky)" rx="12" />
+
+  <!-- Tactical HUD Grid Lines -->
+  <g opacity="0.18" stroke="#3b82f6" stroke-width="0.8">
+    <line x1="40" y1="28" x2="960" y2="28" />
+    <line x1="40" y1="392" x2="960" y2="392" />
+    <line x1="40" y1="28" x2="40" y2="392" />
+    <line x1="960" y1="28" x2="960" y2="392" />
+    <line x1="500" y1="12" x2="500" y2="40" stroke-dasharray="3,3" />
+    <line x1="500" y1="380" x2="500" y2="408" stroke-dasharray="3,3" />
+    
+    <!-- Concentric Target Rings -->
+    <circle cx="500" cy="226" r="140" fill="none" stroke-dasharray="4,6" opacity="0.35" />
+    <circle cx="500" cy="226" r="260" fill="none" stroke-dasharray="2,8" opacity="0.2" />
+  </g>
+
+  <!-- Corner Tactical Brackets -->
+  <g stroke="#38bdf8" stroke-width="1.8" fill="none" opacity="0.8">
+    <path d="M 32,50 L 32,24 L 58,24" />
+    <path d="M 968,50 L 968,24 L 942,24" />
+    <path d="M 32,370 L 32,396 L 58,396" />
+    <path d="M 968,370 L 968,396 L 942,396" />
+  </g>
+
+  <!-- Telemetry HUD Markers - Clear of bat wings -->
+  <g fill="#4a6fa1" class="mono" font-size="9.5" letter-spacing="1.5">
+    <text x="50" y="44">SYS.OP // BENGALURU SECTOR [12.9716 N, 77.5946 E]</text>
+    <text x="950" y="44" text-anchor="end">TACTICAL RADAR // LEVEL 5 PROTOCOL</text>
+    <text x="50" y="382">ID: ANIKETHANA // SDE INTERN @ MY STARTUP WAVE</text>
+    <text x="950" y="382" text-anchor="end">GOTHAM DEFENSE GRID V4.8</text>
+  </g>
+
+  <!-- AMBIENT BACKLIGHT BEHIND BAT LOGO -->
+  <g transform="translate(65, 8) scale(0.87, 0.65)">
+    <path d="
+      M 500,175
+      L 572,150
+      L 582,178
+      C 650,185 690,160 736,110
+      C 860,220 950,360 975,520
+      C 910,465 835,455 802,482
+      L 790,510
+      Q 740,455 685,450
+      L 500,595
+      L 315,450
+      Q 260,455 210,510
+      L 198,482
+      C 165,455 90,465 25,520
+      C 50,360 140,220 264,110
+      C 310,160 350,185 418,178
+      L 428,150
+      Z
+    " fill="#1e3a5f" opacity="0.45" filter="url(#bat-glow)">
+      <animate attributeName="opacity" values="0.3;0.65;0.3" dur="3.5s" repeatCount="indefinite" />
+    </path>
+  </g>
+
+  <!-- MAIN BAT EMBLEM WITH CLIPPED INTERIOR (EXACT BEN AFFLECK SILHOUETTE) -->
+  <g transform="translate(65, 8) scale(0.87, 0.65)">
+    <!-- Base Bat Body Armor -->
+    <path d="
+      M 500,175
+      L 572,150
+      L 582,178
+      C 650,185 690,160 736,110
+      C 860,220 950,360 975,520
+      C 910,465 835,455 802,482
+      L 790,510
+      Q 740,455 685,450
+      L 500,595
+      L 315,450
+      Q 260,455 210,510
+      L 198,482
+      C 165,455 90,465 25,520
+      C 50,360 140,220 264,110
+      C 310,160 350,185 418,178
+      L 428,150
+      Z
+    " fill="url(#bat-armor)" stroke="url(#bat-rim)" stroke-width="2.5">
+      <animate attributeName="stroke-width" values="2;3.2;2" dur="3s" repeatCount="indefinite" />
+    </path>
+
+    <!-- Clipped Dynamic Interior Effects -->
+    <g clip-path="url(#affleck-bat-clip)">
+      <!-- Carbon / Armor Plate Seams -->
+      <g stroke="#1a2638" stroke-width="1.2" opacity="0.6">
+        <line x1="500" y1="175" x2="500" y2="595" stroke-dasharray="8,4" />
+        <line x1="315" y1="450" x2="428" y2="280" />
+        <line x1="685" y1="450" x2="572" y2="280" />
+        <line x1="264" y1="200" x2="736" y2="200" stroke-dasharray="4,8" opacity="0.4" />
+        <line x1="150" y1="360" x2="850" y2="360" stroke-dasharray="4,8" opacity="0.3" />
+      </g>
+
+      <!-- Tactical Vertical Scanner Laser Beam -->
+      <line x1="0" y1="0" x2="1000" y2="0" stroke="#38bdf8" stroke-width="2.5" opacity="0.65" filter="url(#laser-glow)">
+        <animate attributeName="y1" values="100;550;100" dur="4s" repeatCount="indefinite" />
+        <animate attributeName="y2" values="100;550;100" dur="4s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="4s" repeatCount="indefinite" />
+      </line>
+
+      <!-- Laser Scanner Beam Shadow/Wash -->
+      <rect x="0" y="0" width="1000" height="40" fill="#38bdf8" opacity="0.08">
+        <animate attributeName="y" values="80;530;80" dur="4s" repeatCount="indefinite" />
+      </rect>
+    </g>
+  </g>
+
+  <!-- NAME & TEXT INSIDE BAT LOGO (CHEST AREA) -->
+  <g text-anchor="middle">
+    <!-- Sub-header HUD tag -->
+    <text x="500" y="180" class="mono" font-size="11" fill="#38bdf8" letter-spacing="4" font-weight="600" opacity="0.9">
+      [ KNIGHT PROTOCOL // ACTIVE ]
+    </text>
+
+    <!-- Main Operative Name: ANIKETHANA REDDY -->
+    <text x="500" y="224" class="heading" font-size="37" fill="url(#text-shimmer)" letter-spacing="7" filter="url(#laser-glow)">
+      ANIKETHANA REDDY
+    </text>
+
+    <!-- Tactical Divider Line Inside Chest -->
+    <line x1="390" y1="236" x2="610" y2="236" stroke="#3b82f6" stroke-width="1.5" opacity="0.7">
+      <animate attributeName="x1" values="415;375;415" dur="3s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="585;625;585" dur="3s" repeatCount="indefinite" />
+    </line>
+
+    <!-- Subtitle Spec Inside Bat Body -->
+    <text x="500" y="258" class="sub" font-size="12.5" fill="#94a3b8" letter-spacing="3" font-weight="700">
+      FULL-STACK ENGINEER  &#8226;  GENAI ARCHITECT  &#8226;  DEVTOOLS BUILDER
+    </text>
+
+    <!-- Organization & Location Spec -->
+    <text x="500" y="278" class="mono" font-size="10.5" fill="#60a5fa" letter-spacing="2" opacity="0.9">
+      SDE INTERN @ MY STARTUP WAVE  //  CREATOR OF ONE SWAGGER
+    </text>
+  </g>
+</svg>
