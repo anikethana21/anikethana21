@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <linearGradient id="stitch-blue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4285F4"/>
+      <stop offset="100%" stop-color="#34A853"/>
+    </linearGradient>
+    <linearGradient id="stitch-accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EA4335"/>
+      <stop offset="100%" stop-color="#FBBC05"/>
+    </linearGradient>
+  </defs>
+  <!-- Rounded Base matching SkillIcons -->
+  <rect width="48" height="48" rx="10" fill="#181825" stroke="#313244" stroke-width="1.2"/>
+  <!-- UI Wireframe Screen -->
+  <rect x="10" y="11" width="28" height="26" rx="4" fill="none" stroke="#45475a" stroke-width="1.6"/>
+  <!-- Top UI Bar -->
+  <line x1="10" y1="17" x2="38" y2="17" stroke="#45475a" stroke-width="1.4"/>
+  <circle cx="14" cy="14" r="1.2" fill="#EA4335"/>
+  <circle cx="18" cy="14" r="1.2" fill="#FBBC05"/>
+  <circle cx="22" cy="14" r="1.2" fill="#34A853"/>
+  <!-- Stitch Wave / Needle Line -->
+  <path d="M14 26 Q 20 18, 26 26 T 38 24" fill="none" stroke="url(#stitch-blue)" stroke-width="2.4" stroke-linecap="round"/>
+  <!-- Stitching Crosses -->
+  <path d="M16 23 L20 27 M20 23 L16 27" stroke="url(#stitch-accent)" stroke-width="1.6" stroke-linecap="round"/>
+  <path d="M28 23 L32 27 M32 23 L28 27" stroke="url(#stitch-blue)" stroke-width="1.6" stroke-linecap="round"/>
+  <!-- AI Sparkle at bottom right -->
+  <path d="M34 30 C34 32.5 32.5 34 30 34 C32.5 34 34 35.5 34 38 C34 35.5 35.5 34 38 34 C35.5 34 34 32.5 34 30 Z" fill="#FBBC05"/>
+</svg>

@@ -5,7 +5,7 @@
 
 <!-- DYNAMIC TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=650&height=50&lines=%F0%9F%92%BC+SDE+Intern+%40+My+Startup+Wave;%E2%9A%A1+Building+with+Next.js+15%2C+React+19+%26+Python;%F0%9F%A4%96+Architecting+GenAI+%26+Multi-Agent+Pipelines;%F0%9F%9B%A0%EF%B8%8F+Creator+of+One+Swagger+on+VS+Code+Marketplace;%F0%9F%8F%86+National+Hackathon+Finalist+%40+SRIJAN+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=680&height=50&lines=%F0%9F%92%BC+SDE+Intern+%40+My+Startup+Wave;%E2%9A%A1+Building+with+Next.js+15%2C+React+19+%26+Python;%F0%9F%A4%96+Architecting+GenAI+%26+Multi-Agent+Pipelines;%F0%9F%8E%A8+AI+UI%2FUX+Design+with+Google+Stitch+%26+Figma;%F0%9F%9B%A0%EF%B8%8F+Creator+of+One+Swagger+on+VS+Code+Marketplace;%F0%9F%8F%86+National+Hackathon+Finalist+%40+SRIJAN+2026" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -33,17 +33,18 @@ const aniketh = {
   currentRole: "Software Engineering Intern @ My Startup Wave",
   roles: ["Full-Stack Engineer", "GenAI Builder", "DevTools Creator"],
   coreStack: ["Next.js 15", "React 19", "TypeScript", "FastAPI", "Python"],
+  aiAndDesign: ["Gemini 2.0 Flash", "Google Stitch", "Agentic Workflows", "Figma"],
   currentlyBuilding: "GenAI pipelines, Multi-Agent workflows & scalable web apps",
-  obsessions: ["Next.js", "Gemini 2.0 Flash", "Agentic Workflows"],
   funFact: "I publish tools that live inside your browser AND your editor 🔌"
 };
 ```
 
 - 💼 **Software Engineering Intern** at **[My Startup Wave](https://mystartupwave.com/)** — engineering modern web & AI solutions
 - 🔭 Developing **GenAI-powered applications** & Multi-Agent systems with Gemini 2.0 & Next.js
+- 🎨 AI-assisted UI/UX design & rapid prototyping with **Google Stitch** & **Figma**
 - 🛠️ Creator of **One Swagger** — live on [VS Code Marketplace](https://marketplace.visualstudio.com/) + Chrome Web Store
 - 🏆 **National Finalist** @ SRIJAN 2026 | Smart India Hackathon contributor
-- 💬 Ask me about **Next.js, React 19, FastAPI, GenAI, Extension Development**
+- 💬 Ask me about **Next.js, React 19, FastAPI, GenAI, Google Stitch, Extension Development**
 - 📫 Reach me at **anikethana2109@gmail.com**
 
 ---
@@ -52,7 +53,6 @@ const aniketh = {
 
 <div align="center">
 
-<!-- ANIMATED TECH STACK WITH ICONS -->
 <table>
 <tr>
 <td align="center" width="110">
@@ -108,28 +108,28 @@ const aniketh = {
 </tr>
 <tr>
 <td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-  <br><strong>Docker</strong>
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+  <br><strong>VS Code</strong>
 </td>
 <td align="center" width="110">
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
   <br><strong>Git</strong>
 </td>
 <td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-  <br><strong>GitHub</strong>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-  <br><strong>VS Code</strong>
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+  <br><strong>Docker</strong>
 </td>
 <td align="center" width="110">
   <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
   <br><strong>Figma</strong>
 </td>
 <td align="center" width="110">
-  <img src="https://img.shields.io/badge/🤖-Gemini_AI-8E75B2?style=flat-square" width="48" height="48" alt="Gemini" />
+  <img src="./assets/gemini.svg" width="48" height="48" alt="Gemini AI" />
   <br><strong>Gemini AI</strong>
+</td>
+<td align="center" width="110">
+  <img src="./assets/google-stitch.svg" width="48" height="48" alt="Google Stitch" />
+  <br><strong>Google Stitch</strong>
 </td>
 </tr>
 </table>
@@ -139,19 +139,6 @@ const aniketh = {
 ---
 
 ## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/anikethana21/one-swagger">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anikethana21&repo=one-swagger&theme=tokyonight&hide_border=true&border_radius=12&show_owner=true" />
-</a>
-<a href="https://github.com/anikethana21/interview-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anikethana21&repo=interview-ai&theme=tokyonight&hide_border=true&border_radius=12&show_owner=true" />
-</a>
-
-</div>
-
-<br/>
 
 <div align="center">
 <table>
@@ -184,9 +171,10 @@ const aniketh = {
 </td>
 <td width="50%">
 
-### 🚀 More Coming Soon...
-> Always building, always shipping  
-> Check out my [repositories](https://github.com/anikethana21?tab=repositories) →
+### 🤖 RAG Multi-Agent Systems
+> Advanced multi-agent architectures for autonomous research & retrieval  
+> Check out my [repositories](https://github.com/anikethana21?tab=repositories) →  
+> `Python` `LangGraph` `Gemini` `Vector DB`
 
 </td>
 </tr>
@@ -200,23 +188,13 @@ const aniketh = {
 <div align="center">
 
 <!-- ANIMATED STATS CARDS -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anikethana21&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&custom_title=📈%20GitHub%20Stats" />
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anikethana21&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&custom_title=%F0%9F%93%88%20GitHub%20Stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anikethana21&theme=tokyonight&hide_border=true&border_radius=12" />
 
 <br/><br/>
 
 <!-- MOST USED LANGUAGES -->
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikethana21&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
-
-<br/><br/>
-
-<!-- TROPHY SHELF -->
-<img src="https://github-profile-trophy.vercel.app/?username=anikethana21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
-
-<br/><br/>
-
-<!-- CONTRIBUTION GRAPH ANIMATION -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anikethana21&theme=tokyo-night&hide_border=true&radius=12&area=true&custom_title=📅%20Contribution%20Graph" width="95%"/>
+<img width="46%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anikethana21&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
 
 </div>
 
@@ -226,9 +204,9 @@ const aniketh = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anikethana21/anikethana21/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anikethana21/anikethana21/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/anikethana21/anikethana21/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+    <img alt="Snake animation" src="./assets/github-snake-dark.svg" />
   </picture>
 </div>
 
