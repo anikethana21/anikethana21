@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anikethana%20🚀&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Engineer%20|%20GenAI%20Builder%20|%20Dev%20Tools%20Creator&descSize=16&descAlignY=52&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anikethana%20🚀&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=SDE%20Intern%20%40%20My%20Startup%20Wave%20%7C%20Full-Stack%20%26%20GenAI%20Builder&descSize=16&descAlignY=52&descAlign=50"/>
 
 <!-- DYNAMIC TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%F0%9F%94%A5+Shipping+production+apps+with+Next.js+%26+React+19;%F0%9F%A4%96+Building+GenAI+pipelines+with+Gemini+2.0+Flash;%F0%9F%9B%A0%EF%B8%8F+Published+dev+tools+on+VS+Code+Marketplace+%26+Chrome;%F0%9F%8F%86+National+Hackathon+Finalist+%40+SRIJAN+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=650&height=50&lines=%F0%9F%92%BC+SDE+Intern+%40+My+Startup+Wave;%E2%9A%A1+Building+with+Next.js+15%2C+React+19+%26+Python;%F0%9F%A4%96+Architecting+GenAI+%26+Multi-Agent+Pipelines;%F0%9F%9B%A0%EF%B8%8F+Creator+of+One+Swagger+on+VS+Code+Marketplace;%F0%9F%8F%86+National+Hackathon+Finalist+%40+SRIJAN+2026" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,28 +25,26 @@
 
 ---
 
-<!-- ANIMATED ABOUT ME SECTION -->
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 ## ⚡ `> whoami`
 
 ```typescript
 const aniketh = {
   location: "Bengaluru, India 🇮🇳",
+  currentRole: "Software Engineering Intern @ My Startup Wave",
   roles: ["Full-Stack Engineer", "GenAI Builder", "DevTools Creator"],
-  currentlyBuilding: "AI-powered dev tools & production apps",
-  obsessions: ["Next.js 15", "Gemini 2.0", "Agentic Workflows"],
+  coreStack: ["Next.js 15", "React 19", "TypeScript", "FastAPI", "Python"],
+  currentlyBuilding: "GenAI pipelines, Multi-Agent workflows & scalable web apps",
+  obsessions: ["Next.js", "Gemini 2.0 Flash", "Agentic Workflows"],
   funFact: "I publish tools that live inside your browser AND your editor 🔌"
 };
 ```
 
-- 🔭 Currently working on **GenAI-powered applications** with Gemini 2.0
-- 🛠️ Created **One Swagger** — live on [VS Code Marketplace](https://marketplace.visualstudio.com/) + Chrome Web Store
+- 💼 **Software Engineering Intern** at **[My Startup Wave](https://mystartupwave.com/)** — engineering modern web & AI solutions
+- 🔭 Developing **GenAI-powered applications** & Multi-Agent systems with Gemini 2.0 & Next.js
+- 🛠️ Creator of **One Swagger** — live on [VS Code Marketplace](https://marketplace.visualstudio.com/) + Chrome Web Store
 - 🏆 **National Finalist** @ SRIJAN 2026 | Smart India Hackathon contributor
 - 💬 Ask me about **Next.js, React 19, FastAPI, GenAI, Extension Development**
 - 📫 Reach me at **anikethana2109@gmail.com**
-
-<br clear="both"/>
 
 ---
 
