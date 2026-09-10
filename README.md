@@ -54,12 +54,13 @@ const aniketh = {
 };
 ```
 
-- 🟢 **Current Role:** Software Engineering Intern at **[My Startup Wave](https://mystartupwave.com/)** — engineering modern web & AI solutions
-- 🟢 **GenAI Architecture:** Developing **GenAI-powered applications** & Multi-Agent systems with **Gemini 2.0 Flash** & **Next.js 15**
-- 🟢 **AI Interface Design:** Rapid AI UI/UX prototyping with **Google Stitch** & **Figma**
-- 🟢 **Featured Creation:** Creator of **One Swagger** — live on [VS Code Marketplace](https://marketplace.visualstudio.com/) & Chrome Web Store
-- 🟢 **National Accolade:** **National Finalist** @ SRIJAN 2026 | Smart India Hackathon contributor
-- 🟢 **Direct Uplink:** **anikethana2109@gmail.com**
+- 💼 **Software Engineering Intern** at **[My Startup Wave](https://mystartupwave.com/)** — engineering modern web & AI solutions
+- 🔭 Developing **GenAI-powered applications** & Multi-Agent systems with **Gemini 2.0 Flash** & **Next.js 15**
+- 🎨 AI-assisted UI/UX design & rapid prototyping with **Google Stitch** & **Figma**
+- 🛠️ Creator of **One Swagger** — live on [VS Code Marketplace](https://marketplace.visualstudio.com/) & Chrome Web Store
+- 🏆 **National Finalist** @ SRIJAN 2026 | Smart India Hackathon contributor
+- 💬 Ask me about **Next.js, React 19, FastAPI, GenAI, Google Stitch, Extension Development**
+- 📫 Reach me at **anikethana2109@gmail.com**
 
 <br/>
 
