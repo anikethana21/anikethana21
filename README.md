@@ -188,10 +188,10 @@ const aniketh = {
 > Universal OpenAPI testing tool with **zero-CORS proxy** architecture  
 > Deployed across **Web App, Chrome Extension, and VS Code Marketplace**  
 
-<img src="https://img.shields.io/badge/React%2019-000000?style=flat-square&color=00ff41&labelColor=051a05" alt="React 19" />
-<img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&color=00ff41&labelColor=051a05" alt="FastAPI" />
-<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&color=00ff41&labelColor=051a05" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Manifest%20V3-000000?style=flat-square&color=00ff41&labelColor=051a05" alt="Manifest V3" />
+<img src="https://img.shields.io/badge/React_19-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React 19" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Manifest_V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Manifest V3" />
 
 </td>
 <td width="50%" valign="top">
@@ -201,10 +201,10 @@ const aniketh = {
 > GenAI mock interview platform powered by **Gemini 2.0 Flash**  
 > Schema-enforced Zod outputs and ATS-grade PDF report generation  
 
-<img src="https://img.shields.io/badge/Gemini%202.0-000000?style=flat-square&color=00ff41&labelColor=051a05" alt="Gemini 2.0" />
-<img src="https://img.shields.io/badge/React%2019-000000?style=flat-square&color=00ff41&labelColor=051a05" alt="React 19" />
-<img src="https://img.shields.io/badge/Express%205-000000?style=flat-square&color=00ff41&labelColor=051a05" alt="Express 5" />
-<img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&color=00ff41&labelColor=051a05" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Gemini_2.0-8E75FF?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini 2.0" />
+<img src="https://img.shields.io/badge/React_19-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React 19" />
+<img src="https://img.shields.io/badge/Express_5-000000?style=flat-square&logo=express&logoColor=white" alt="Express 5" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 
 </td>
 </tr>
@@ -216,10 +216,10 @@ const aniketh = {
 > Automated Joiner-Mover-Leaver platform with conversational RBAC  
 > **SRIJAN 2026 National Finalist** 🏆  
 
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&color=00ff41&labelColor=051a05" alt="Python" />
-<img src="https://img.shields.io/badge/Security-000000?style=flat-square&color=00ff41&labelColor=051a05" alt="Security" />
-<img src="https://img.shields.io/badge/IAM-000000?style=flat-square&color=00ff41&labelColor=051a05" alt="IAM" />
-<img src="https://img.shields.io/badge/SOC2-000000?style=flat-square&color=00ff41&labelColor=051a05" alt="SOC2" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Security-24292e?style=flat-square&logo=auth0&logoColor=white" alt="Security" />
+<img src="https://img.shields.io/badge/IAM-1f425f?style=flat-square" alt="IAM" />
+<img src="https://img.shields.io/badge/SOC2-0052CC?style=flat-square" alt="SOC2" />
 
 </td>
 <td width="50%" valign="top">
@@ -229,10 +229,10 @@ const aniketh = {
 > Autonomous multi-agent intelligence for real-time deep research  
 > Browse the source at [repositories](https://github.com/anikethana21?tab=repositories) →  
 
-<img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square&color=00ff41&labelColor=051a05" alt="LangGraph" />
-<img src="https://img.shields.io/badge/Gemini-000000?style=flat-square&color=00ff41&labelColor=051a05" alt="Gemini" />
-<img src="https://img.shields.io/badge/Vector%20DB-000000?style=flat-square&color=00ff41&labelColor=051a05" alt="Vector DB" />
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&color=00ff41&labelColor=051a05" alt="Python" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/Gemini-8E75FF?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Vector_DB-FF6F00?style=flat-square" alt="Vector DB" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 
 </td>
 </tr>
