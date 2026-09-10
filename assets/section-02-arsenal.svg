@@ -22,15 +22,13 @@
     <path d="M 8,30 L 8,36 L 14,36" />
     <path d="M 892,30 L 892,36 L 886,36" />
   </g>
-  <!-- Pulsing green status node -->
-  <circle cx="28" cy="22" r="3.5" fill="#00ff41" filter="url(#glow-02)">
-    <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" repeatCount="indefinite" />
-  </circle>
   <!-- Title: White crisp with phosphor green glow -->
-  <text x="44" y="28" class="mono" font-size="15" font-weight="900" fill="#00ff41" letter-spacing="2" filter="url(#glow-02)">&gt; 02 // TECH_ARSENAL</text>
-  <text x="44" y="28" class="mono" font-size="15" font-weight="900" fill="#ffffff" letter-spacing="2">&gt; 02 // TECH_ARSENAL</text>
+  <text x="24" y="28" class="mono" font-size="15" font-weight="900" fill="#00ff41" letter-spacing="2" filter="url(#glow-02)">&gt; 02 // TECH_ARSENAL</text>
+  <text x="24" y="28" class="mono" font-size="15" font-weight="900" fill="#ffffff" letter-spacing="2">&gt; 02 // TECH_ARSENAL</text>
   <!-- Cyber dashed line -->
-  <line x1="265" y1="22" x2="685" y2="22" stroke="#052e16" stroke-width="1" stroke-dasharray="6 4" />
-  <!-- Right status -->
-  <text x="872" y="27" text-anchor="end" class="mono" font-size="11" font-weight="700" fill="#00ff41" letter-spacing="2">[SYSTEM: 18_MODULES_LOADED]</text>
+  <line x1="255" y1="22" x2="855" y2="22" stroke="#052e16" stroke-width="1" stroke-dasharray="6 4" />
+  <!-- Right pulsing green node -->
+  <circle cx="872" cy="22" r="4" fill="#00ff41" filter="url(#glow-02)">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite" />
+  </circle>
 </svg>
