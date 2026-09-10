@@ -195,12 +195,12 @@ const aniketh = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anikethana21&show_icons=true&theme=matrix&border_radius=8&count_private=true&include_all_commits=true&custom_title=System%20Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anikethana21&theme=matrix&border_radius=8" />
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anikethana21&show_icons=true&bg_color=000000&title_color=00ff41&text_color=86efac&icon_color=00ff41&border_color=0a3d0a&border_radius=8&count_private=true&include_all_commits=true&custom_title=System%20Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anikethana21&background=000000&border=0a3d0a&stroke=0a3d0a&ring=00ff41&fire=39ff14&currStreakNum=86efac&currStreakLabel=00ff41&sideNums=86efac&sideLabels=00ff41&dates=22c55e&border_radius=8" />
 
 <br/><br/>
 
-<img width="46%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anikethana21&layout=compact&theme=matrix&border_radius=8&langs_count=8" />
+<img width="46%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anikethana21&layout=compact&bg_color=000000&title_color=00ff41&text_color=86efac&border_color=0a3d0a&border_radius=8&langs_count=8" />
 
 </div>
 
