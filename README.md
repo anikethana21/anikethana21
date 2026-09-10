@@ -32,7 +32,14 @@
   <img width="100%" src="./assets/matrix-divider.svg" alt="divider" />
 </div>
 
-## ⚡ `> whoami`
+<br/>
+
+<!-- SECTION 01: WHOAMI -->
+<div align="center">
+  <img width="100%" src="./assets/section-01-whoami.svg" alt="01 // WHOAMI" />
+</div>
+
+<br/>
 
 ```typescript
 const aniketh = {
@@ -47,17 +54,28 @@ const aniketh = {
 };
 ```
 
-- 💼 **Software Engineering Intern** at **[My Startup Wave](https://mystartupwave.com/)** — engineering modern web & AI solutions
-- 🔭 Developing **GenAI-powered applications** & Multi-Agent systems with Gemini 2.0 & Next.js
-- 🎨 AI-assisted UI/UX design & rapid prototyping with **Google Stitch** & **Figma**
-- 🛠️ Creator of **One Swagger** — live on [VS Code Marketplace](https://marketplace.visualstudio.com/) + Chrome Web Store
-- 🏆 **National Finalist** @ SRIJAN 2026 | Smart India Hackathon contributor
-- 💬 Ask me about **Next.js, React 19, FastAPI, GenAI, Google Stitch, Extension Development**
-- 📫 Reach me at **anikethana2109@gmail.com**
+- 🟢 **Current Role:** Software Engineering Intern at **[My Startup Wave](https://mystartupwave.com/)** — engineering modern web & AI solutions
+- 🟢 **GenAI Architecture:** Developing **GenAI-powered applications** & Multi-Agent systems with **Gemini 2.0 Flash** & **Next.js 15**
+- 🟢 **AI Interface Design:** Rapid AI UI/UX prototyping with **Google Stitch** & **Figma**
+- 🟢 **Featured Creation:** Creator of **One Swagger** — live on [VS Code Marketplace](https://marketplace.visualstudio.com/) & Chrome Web Store
+- 🟢 **National Accolade:** **National Finalist** @ SRIJAN 2026 | Smart India Hackathon contributor
+- 🟢 **Direct Uplink:** **anikethana2109@gmail.com**
 
----
+<br/>
 
-## 🛠️ Tech Arsenal
+<!-- MATRIX LASER DIVIDER -->
+<div align="center">
+  <img width="100%" src="./assets/matrix-divider.svg" alt="divider" />
+</div>
+
+<br/>
+
+<!-- SECTION 02: TECH ARSENAL -->
+<div align="center">
+  <img width="100%" src="./assets/section-02-arsenal.svg" alt="02 // TECH_ARSENAL" />
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -144,54 +162,98 @@ const aniketh = {
 
 </div>
 
----
+<br/>
 
-## 🌟 Featured Projects
+<!-- MATRIX LASER DIVIDER -->
+<div align="center">
+  <img width="100%" src="./assets/matrix-divider.svg" alt="divider" />
+</div>
+
+<br/>
+
+<!-- SECTION 03: FEATURED PROJECTS -->
+<div align="center">
+  <img width="100%" src="./assets/section-03-projects.svg" alt="03 // FEATURED_PROJECTS" />
+</div>
+
+<br/>
 
 <div align="center">
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔌 One Swagger
+<img width="100%" src="./assets/project-01-oneswagger.svg" alt="One Swagger" />
+
 > Universal OpenAPI testing tool with **zero-CORS proxy** architecture  
 > Deployed across **Web App, Chrome Extension, and VS Code Marketplace**  
-> `React 19` `FastAPI` `TypeScript` `Manifest V3`
+
+<img src="https://img.shields.io/badge/React%2019-000000?style=flat-square&color=00ff41&labelColor=051a05" alt="React 19" />
+<img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&color=00ff41&labelColor=051a05" alt="FastAPI" />
+<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&color=00ff41&labelColor=051a05" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Manifest%20V3-000000?style=flat-square&color=00ff41&labelColor=051a05" alt="Manifest V3" />
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 Interview AI
+<img width="100%" src="./assets/project-02-interviewai.svg" alt="Interview AI" />
+
 > GenAI mock interview platform powered by **Gemini 2.0 Flash**  
 > Schema-enforced Zod outputs and ATS-grade PDF report generation  
-> `React 19` `Express 5` `Gemini 2.0` `MongoDB`
+
+<img src="https://img.shields.io/badge/Gemini%202.0-000000?style=flat-square&color=00ff41&labelColor=051a05" alt="Gemini 2.0" />
+<img src="https://img.shields.io/badge/React%2019-000000?style=flat-square&color=00ff41&labelColor=051a05" alt="React 19" />
+<img src="https://img.shields.io/badge/Express%205-000000?style=flat-square&color=00ff41&labelColor=051a05" alt="Express 5" />
+<img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&color=00ff41&labelColor=051a05" alt="MongoDB" />
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛡️ ILAP — IAM Automation
+<img width="100%" src="./assets/project-03-ilap.svg" alt="ILAP Automation" />
+
 > Automated Joiner-Mover-Leaver platform with conversational RBAC  
 > **SRIJAN 2026 National Finalist** 🏆  
-> `Python` `Security` `IAM` `SOC2`
+
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&color=00ff41&labelColor=051a05" alt="Python" />
+<img src="https://img.shields.io/badge/Security-000000?style=flat-square&color=00ff41&labelColor=051a05" alt="Security" />
+<img src="https://img.shields.io/badge/IAM-000000?style=flat-square&color=00ff41&labelColor=051a05" alt="IAM" />
+<img src="https://img.shields.io/badge/SOC2-000000?style=flat-square&color=00ff41&labelColor=051a05" alt="SOC2" />
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 RAG Multi-Agent Systems
+<img width="100%" src="./assets/project-04-ragagents.svg" alt="RAG Multi-Agent" />
+
 > Autonomous multi-agent intelligence for real-time deep research  
 > Browse the source at [repositories](https://github.com/anikethana21?tab=repositories) →  
-> `Python` `LangGraph` `Gemini` `Vector DB`
+
+<img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square&color=00ff41&labelColor=051a05" alt="LangGraph" />
+<img src="https://img.shields.io/badge/Gemini-000000?style=flat-square&color=00ff41&labelColor=051a05" alt="Gemini" />
+<img src="https://img.shields.io/badge/Vector%20DB-000000?style=flat-square&color=00ff41&labelColor=051a05" alt="Vector DB" />
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&color=00ff41&labelColor=051a05" alt="Python" />
 
 </td>
 </tr>
 </table>
 </div>
 
----
+<br/>
 
-## 📊 Matrix Telemetry // Stats
+<!-- MATRIX LASER DIVIDER -->
+<div align="center">
+  <img width="100%" src="./assets/matrix-divider.svg" alt="divider" />
+</div>
+
+<br/>
+
+<!-- SECTION 04: MATRIX TELEMETRY -->
+<div align="center">
+  <img width="100%" src="./assets/section-04-telemetry.svg" alt="04 // MATRIX_TELEMETRY" />
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -204,9 +266,21 @@ const aniketh = {
 
 </div>
 
----
+<br/>
 
-## 🐍 Contribution Stream
+<!-- MATRIX LASER DIVIDER -->
+<div align="center">
+  <img width="100%" src="./assets/matrix-divider.svg" alt="divider" />
+</div>
+
+<br/>
+
+<!-- SECTION 05: CONTRIBUTION STREAM -->
+<div align="center">
+  <img width="100%" src="./assets/section-05-stream.svg" alt="05 // CONTRIBUTION_STREAM" />
+</div>
+
+<br/>
 
 <div align="center">
   <picture>
@@ -216,9 +290,21 @@ const aniketh = {
   </picture>
 </div>
 
----
+<br/>
 
-## 🤝 Establish Uplink
+<!-- MATRIX LASER DIVIDER -->
+<div align="center">
+  <img width="100%" src="./assets/matrix-divider.svg" alt="divider" />
+</div>
+
+<br/>
+
+<!-- SECTION 06: ESTABLISH UPLINK -->
+<div align="center">
+  <img width="100%" src="./assets/section-06-uplink.svg" alt="06 // ESTABLISH_UPLINK" />
+</div>
+
+<br/>
 
 <div align="center">
 
