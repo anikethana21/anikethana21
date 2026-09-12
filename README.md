@@ -46,21 +46,46 @@ const aniketh = {
   identity: "Anikethana",
   location: "Bengaluru, India",
   currentAssignment: "Software Engineering Intern @ My Startup Wave",
-  designations: ["Full-Stack Engineer", "GenAI Architect", "DevTools Creator"],
-  coreStack: ["Next.js 15", "React 19", "TypeScript", "FastAPI", "Python"],
-  aiArsenal: ["Gemini 2.0 Flash", "Google Stitch", "Agentic Workflows", "Figma"],
-  activeOps: "GenAI pipelines, Multi-Agent workflows & scalable web apps",
+  designations: [
+    "Distributed Systems Engineer",
+    "GenAI Architect",
+    "DevTools Creator"
+  ],
+  coreStack: [
+    "Next.js 15",
+    "React 19",
+    "TypeScript",
+    "FastAPI",
+    "Python",
+    "Node.js"
+  ],
+  systemsArsenal: [
+    "Apache Kafka (KRaft)",
+    "Redis 7",
+    "Docker",
+    "Kubernetes",
+    "PostgreSQL",
+    "MongoDB"
+  ],
+  aiArsenal: [
+    "Gemini 2.0 Flash",
+    "LangGraph",
+    "Multi-Agent Systems",
+    "Google Stitch"
+  ],
+  activeOps: "Event-driven microservices, GenAI orchestrators & resilient distributed architectures",
   directive: "Wake up, Neo... The Matrix has you 🐇"
 };
 ```
 
 - 💼 **Software Engineering Intern** at **[My Startup Wave](https://mystartupwave.com/)** — engineering modern web & AI solutions
-- 🔭 Developing **GenAI-powered applications** & Multi-Agent systems with **Gemini 2.0 Flash** & **Next.js 15**
-- 🎨 AI-assisted UI/UX design & rapid prototyping with **Google Stitch** & **Figma**
-- 🛠️ Creator of **One Swagger** — live on [VS Code Marketplace](https://marketplace.visualstudio.com/) & Chrome Web Store
-- 🏆 **National Finalist** @ SRIJAN 2026 | Smart India Hackathon contributor
-- 💬 Ask me about **Next.js, React 19, FastAPI, GenAI, Google Stitch, Extension Development**
-- 📫 Reach me at **anikethana2109@gmail.com**
+- ⚡ **Distributed Systems & Event-Driven Architecture:** Architecting resilient microservices with **Apache Kafka (KRaft)**, **Redis** (Cache-Aside & sliding-window rate limiting), **FastAPI**, and **Docker/K8s** ([IntelliHire AI](https://github.com/anikethana21/IntelliHire-AI) & [Shortly](https://github.com/anikethana21/shortly))
+- 🔭 **GenAI & Multi-Agent Intelligence:** Building adaptive LLM interview orchestrators & multi-agent research pipelines with **Gemini 2.0 Flash**, **LangGraph**, and **Mistral** ([RAG Multi-Agent](https://github.com/anikethana21/rag-multi-agent1))
+- 🛠️ **DevTools & Browser Extensions:** Creator of **[One Swagger](https://github.com/anikethana21/one-swagger)** — universal OpenAPI testing tool live on [VS Code Marketplace](https://marketplace.visualstudio.com/) & Chrome Web Store
+- 📚 **Algorithmic Mastery:** Author of **[NeetCode150 Master Guide](https://github.com/anikethana21/NeetCode150_Master_Guide)** — comprehensive 150-problem DSA curriculum with intuitive mental models & interactive web viewer
+- 🏆 **National Accolade:** **National Finalist** @ SRIJAN 2026 | Smart India Hackathon contributor
+- 💬 **Ask me about:** **Distributed Systems, Apache Kafka, Redis, FastAPI, Next.js 15, GenAI, Extension Dev**
+- 📫 **Direct Uplink:** **anikethana2109@gmail.com**
 
 <br/>
 
@@ -109,46 +134,42 @@ const aniketh = {
 </tr>
 <tr>
 <td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-  <br><strong>Node.js</strong>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-  <br><strong>Express</strong>
-</td>
-<td align="center" width="110">
   <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
   <br><strong>FastAPI</strong>
 </td>
 <td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-  <br><strong>MongoDB</strong>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+  <br><strong>Node.js</strong>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
+  <br><strong>Kafka</strong>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+  <br><strong>Redis</strong>
 </td>
 <td align="center" width="110">
   <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
   <br><strong>PostgreSQL</strong>
 </td>
 <td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-  <br><strong>Vite</strong>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+  <br><strong>MongoDB</strong>
 </td>
 </tr>
 <tr>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-  <br><strong>VS Code</strong>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-  <br><strong>Git</strong>
-</td>
 <td align="center" width="110">
   <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
   <br><strong>Docker</strong>
 </td>
 <td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-  <br><strong>Figma</strong>
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+  <br><strong>Kubernetes</strong>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+  <br><strong>Git</strong>
 </td>
 <td align="center" width="110">
   <img src="./assets/gemini.svg" width="48" height="48" alt="Gemini AI" />
@@ -157,6 +178,10 @@ const aniketh = {
 <td align="center" width="110">
   <img src="./assets/google-stitch.svg" width="48" height="48" alt="Google Stitch" />
   <br><strong>Google Stitch</strong>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+  <br><strong>VS Code</strong>
 </td>
 </tr>
 </table>
@@ -184,10 +209,12 @@ const aniketh = {
 <tr>
 <td width="50%" valign="top">
 
-<img width="100%" src="./assets/project-01-oneswagger.svg" alt="One Swagger" />
+<a href="https://github.com/anikethana21/one-swagger">
+  <img width="100%" src="./assets/project-01-oneswagger.svg" alt="One Swagger" />
+</a>
 
 > Universal OpenAPI testing tool with **zero-CORS proxy** architecture  
-> Deployed across **Web App, Chrome Extension, and VS Code Marketplace**  
+> Deployed live on **[VS Code Marketplace](https://marketplace.visualstudio.com/)** & **[Chrome Web Store](https://chromewebstore.google.com/)**  
 
 <img src="https://img.shields.io/badge/React_19-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React 19" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -197,25 +224,45 @@ const aniketh = {
 </td>
 <td width="50%" valign="top">
 
-<img width="100%" src="./assets/project-02-interviewai.svg" alt="Interview AI" />
+<a href="https://github.com/anikethana21/IntelliHire-AI">
+  <img width="100%" src="./assets/project-02-intellihire.svg" alt="IntelliHire AI" />
+</a>
 
-> GenAI mock interview platform powered by **Gemini 2.0 Flash**  
-> Schema-enforced Zod outputs and ATS-grade PDF report generation  
+> Distributed GenAI interview orchestration & candidate assessment engine  
+> Built with **Gemini 2.0 Flash**, **Apache Kafka (KRaft)**, **Redis Mutex**, & **K8s**  
 
 <img src="https://img.shields.io/badge/Gemini_2.0-8E75FF?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini 2.0" />
-<img src="https://img.shields.io/badge/React_19-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React 19" />
-<img src="https://img.shields.io/badge/Express_5-000000?style=flat-square&logo=express&logoColor=white" alt="Express 5" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+<img src="https://img.shields.io/badge/Redis_7-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/anikethana21/shortly">
+  <img width="100%" src="./assets/project-03-shortly.svg" alt="Shortly Platform" />
+</a>
+
+> Production-grade, event-driven microservices URL shortener platform  
+> **[Live Demo](https://shortly-frontend-h639.onrender.com)** | **[API Docs](https://shortly-api-gateway.onrender.com/docs)** | Async Kafka workers & Redis caching  
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Redpanda_Kafka-FA2147?style=flat-square&logo=redpanda&logoColor=white" alt="Redpanda Kafka" />
+<img src="https://img.shields.io/badge/Upstash_Redis-00E9A3?style=flat-square&logo=upstash&logoColor=black" alt="Upstash Redis" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+</td>
+<td width="50%" valign="top">
+
 <img width="100%" src="./assets/project-03-ilap.svg" alt="ILAP Automation" />
 
 > Automated Joiner-Mover-Leaver platform with conversational RBAC  
-> **SRIJAN 2026 National Finalist** 🏆  
+> **SRIJAN 2026 National Finalist** 🏆 | Smart India Hackathon contributor  
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Security-24292e?style=flat-square&logo=auth0&logoColor=white" alt="Security" />
@@ -223,17 +270,36 @@ const aniketh = {
 <img src="https://img.shields.io/badge/SOC2-0052CC?style=flat-square" alt="SOC2" />
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-<img width="100%" src="./assets/project-04-ragagents.svg" alt="RAG Multi-Agent" />
+<a href="https://github.com/anikethana21/rag-multi-agent1">
+  <img width="100%" src="./assets/project-04-ragagents.svg" alt="RAG Multi-Agent" />
+</a>
 
-> Autonomous multi-agent intelligence for real-time deep research  
-> Browse the source at [repositories](https://github.com/anikethana21?tab=repositories) →  
+> Autonomous multi-agent intelligence pipeline for real-time deep research  
+> Two-step search & synthesis with **Tavily Web Search** & **Mistral LLM**  
 
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
-<img src="https://img.shields.io/badge/Gemini-8E75FF?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-<img src="https://img.shields.io/badge/Vector_DB-FF6F00?style=flat-square" alt="Vector DB" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Mistral_AI-F54E00?style=flat-square&logo=mistral&logoColor=white" alt="Mistral AI" />
+<img src="https://img.shields.io/badge/Tavily_Search-0F172A?style=flat-square" alt="Tavily" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/anikethana21/NeetCode150_Master_Guide">
+  <img width="100%" src="./assets/project-06-neetcode.svg" alt="NeetCode 150 Guide" />
+</a>
+
+> Complete 150-problem DSA curriculum with intuition mental models & progressive hints  
+> Features **[Interactive Web Document](https://github.com/anikethana21/NeetCode150_Master_Guide#readme)** with search & dark/light theme  
+
+<img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Algorithms-150_Patterns-00ff41?style=flat-square&labelColor=051a05" alt="Algorithms" />
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
+<img src="https://img.shields.io/badge/Interactive_Docs-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Interactive Docs" />
 
 </td>
 </tr>
