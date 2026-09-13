@@ -387,6 +387,10 @@ const aniketh = {
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=051a05" alt="GitHub"/>
 </a>
 
+<br/><br/>
+
+*"The world only makes sense if you force it to."*
+
 </div>
 
 <br/>
