@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- MATRIX DIGITAL RAIN ANIMATED HEADER -->
-<img width="100%" src="./assets/matrix-header.svg" alt="Anikethana - Matrix" />
+<!-- ANIMATED TERMINAL HEADER -->
+<img width="100%" src="./assets/matrix-header.svg" alt="Anikethana" />
 
 <br/>
 
@@ -74,7 +74,7 @@ const aniketh = {
     "Google Stitch"
   ],
   activeOps: "Event-driven microservices, GenAI orchestrators & resilient distributed architectures",
-  directive: "Wake up, Neo... The Matrix has you 🐇"
+  directive: "Engineer scalable distributed systems & autonomous AI architectures ⚡"
 };
 ```
 
@@ -315,9 +315,9 @@ const aniketh = {
 
 <br/>
 
-<!-- SECTION 04: MATRIX TELEMETRY -->
+<!-- SECTION 04: SYSTEM TELEMETRY -->
 <div align="center">
-  <img width="100%" src="./assets/section-04-telemetry.svg" alt="04 // MATRIX_TELEMETRY" />
+  <img width="100%" src="./assets/section-04-telemetry.svg" alt="04 // SYSTEM_TELEMETRY" />
 </div>
 
 <br/>
@@ -386,10 +386,6 @@ const aniketh = {
 <a href="https://github.com/anikethana21" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=051a05" alt="GitHub"/>
 </a>
-
-<br/><br/>
-
-*"There's a difference between knowing the path and walking the path." — Morpheus*
 
 </div>
 

@@ -70,7 +70,7 @@
     <!-- Stream 3 -->
     <text x="120" y="0" fill="#00ff66">
       <animate attributeName="y" values="-100;220" dur="2.1s" begin="1.2s" repeatCount="indefinite" />
-      M A T R I X 0 1 0 1 1
+      K A F K A 0 1 0 1 1
     </text>
     <!-- Stream 4 -->
     <text x="170" y="0" fill="#009922">
@@ -127,8 +127,8 @@
 
   <!-- Top Terminal Header Line -->
   <g class="matrix-mono" font-size="9" fill="#00ff41" opacity="0.75">
-    <text x="28" y="22">&gt; MATRIX.SYS // OPERATIVE_CONNECTED [BENGALURU_NODE]</text>
-    <text x="872" y="22" text-anchor="end">STATUS: UNPLUGGED // 2026</text>
+    <text x="28" y="22">&gt; TERMINAL.SYS // SYSTEM_ONLINE [BENGALURU_NODE]</text>
+    <text x="872" y="22" text-anchor="end">STATUS: ACTIVE // 2026</text>
   </g>
 
   <!-- MAIN NAME: ANIKETHANA (Phosphor Neon Green Glow) -->
