@@ -79,8 +79,8 @@ const aniketh = {
 ```
 
 - 💼 **Software Engineering Intern** at **[My Startup Wave](https://mystartupwave.com/)** — engineering modern web & AI solutions
-- ⚡ **Distributed Systems & Event-Driven Architecture:** Architecting resilient microservices with **Apache Kafka (KRaft)**, **Redis** (Cache-Aside & sliding-window rate limiting), **FastAPI**, and **Docker/K8s** ([IntelliHire AI](https://github.com/anikethana21/IntelliHire-AI) & [Shortly](https://github.com/anikethana21/shortly))
-- 🔭 **GenAI & Multi-Agent Intelligence:** Building adaptive LLM interview orchestrators & multi-agent research pipelines with **Gemini 2.0 Flash**, **LangGraph**, and **Mistral** ([RAG Multi-Agent](https://github.com/anikethana21/rag-multi-agent1))
+- ⚡ **Distributed Systems & Event-Driven Architecture:** Architecting resilient microservices with **Apache Kafka (KRaft)**, **Redis** (Cache-Aside & sliding-window rate limiting), **FastAPI**, and **Docker/K8s** ([Shortly](https://github.com/anikethana21/shortly))
+- 🔭 **GenAI & Intelligent Co-Pilots:** Building interview co-pilots, ATS resume compilers & multi-agent pipelines with **Gemini 2.0 Flash**, **React 19**, and **LangGraph** ([rPrep](https://github.com/anikethana21/rprep) & [RAG Multi-Agent](https://github.com/anikethana21/rag-multi-agent1))
 - 🛠️ **DevTools & Browser Extensions:** Creator of **[One Swagger](https://github.com/anikethana21/one-swagger)** — universal OpenAPI testing tool live on [VS Code Marketplace](https://marketplace.visualstudio.com/) & Chrome Web Store
 - 📚 **Algorithmic Mastery:** Author of **[NeetCode150 Master Guide](https://github.com/anikethana21/NeetCode150_Master_Guide)** — comprehensive 150-problem DSA curriculum with intuitive mental models & interactive web viewer
 - 🏆 **National Accolade:** **National Finalist** @ SRIJAN 2026 | Smart India Hackathon contributor
@@ -224,19 +224,19 @@ const aniketh = {
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/anikethana21/IntelliHire-AI">
-  <img width="100%" src="./assets/project-02-intellihire.svg" alt="IntelliHire AI" />
+<a href="https://github.com/anikethana21/rprep">
+  <img width="100%" src="./assets/project-02-rprep.svg" alt="rPrep AI" />
 </a>
 
-> Distributed GenAI interview orchestration & candidate assessment engine  
-> Built with **Gemini 2.0 Flash**, **Apache Kafka (KRaft)**, **Redis Mutex**, & **K8s**  
+> Intelligent GenAI career co-pilot & resume interview mastery platform  
+> **[Live Demo](https://rprep-ai.vercel.app)** | Predictive Q&As, learning pathways & ATS resume compiler  
 
 <img src="https://img.shields.io/badge/Gemini_2.0-8E75FF?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini 2.0" />
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
-<img src="https://img.shields.io/badge/Redis_7-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/React_19-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React 19" />
+<img src="https://img.shields.io/badge/Express_5-000000?style=flat-square&logo=express&logoColor=white" alt="Express 5" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" alt="Puppeteer" />
 
 </td>
 </tr>
