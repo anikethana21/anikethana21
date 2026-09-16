@@ -375,8 +375,8 @@ const aniketh = {
 
 <div align="center">
 
-<a href="https://linkedin.com/in/anikethana21" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=051a05" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/anikethana-reddy-j-l-8716ab296/" target="_blank">
+  <img src="./assets/badge-linkedin.svg" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:anikethana2109@gmail.com">
